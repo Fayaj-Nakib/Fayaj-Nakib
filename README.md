@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nakibfayaj99@gmail.com**
 
-- 📄 Know about my experiences [Volunteering in ICPC WORLD FINAL DHAKA 2022](Volunteering in ICPC WORLD FINAL DHAKA 2022)
+- 📄 Know about my experiences (Volunteering in ICPC WORLD FINAL DHAKA 2022)
 
 - ⚡ Fun fact **😒🤷‍♂️**
 
