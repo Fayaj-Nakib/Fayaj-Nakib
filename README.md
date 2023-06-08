@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fayaj Nakib</h1>
+<h1 align="center">Assalamu-alaikum, I'm Fayaj Nakib</h1>
 <h3 align="center">A passionate Learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayaj-nakib&label=Profile%20views&color=0e75b6&style=flat" alt="fayaj-nakib" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayaj-nakib" alt="fayaj-nakib" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fayajnakib" target="blank"><img src="https://img.shields.io/twitter/follow/fayajnakib?logo=twitter&style=for-the-badge" alt="fayajnakib" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -15,7 +11,7 @@
 
 - 📫 How to reach me **nakibfayaj99@gmail.com**
 
-- 📄 Know about my experiences (Volunteering in ICPC WORLD FINAL DHAKA 2022)
+- 📄 Know about my experiences [Volunteering in ICPC WORLD FINAL DHAKA 2022](Volunteering in ICPC WORLD FINAL DHAKA 2022)
 
 - ⚡ Fun fact **😒🤷‍♂️**
 
