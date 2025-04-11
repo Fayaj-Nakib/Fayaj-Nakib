@@ -31,7 +31,7 @@
 
 ---
 
-
+<!--
 
 ## Experience:
 
@@ -51,7 +51,7 @@ Professional training internship contract where I did web maintenance tasks with
 <br/>
 Business desktop software development in Delphi Seattle, where I did teamwork and mantain the main products of the business solving issues in real time.
 
-
+-->
 <!-- Tech Stack -->
 </br>
 <h2>Tech Stack</h2>
