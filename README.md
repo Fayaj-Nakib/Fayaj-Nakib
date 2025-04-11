@@ -21,12 +21,12 @@
 
 ## 🌍 Connect with Me  
 <p align="left">
-  <a href="https://codepen.io/fayaj-nakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://dev.to/fayaj-nakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/fayajnakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/fayaj-nakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/fayaj-nakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/nakibfayaj99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://codepen.io/fayaj-nakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/Fayaj-Nakib/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
+  <a href="https://dev.to/fayaj-nakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/Fayaj-Nakib/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://twitter.com/fayajnakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/Fayaj-Nakib/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/fayaj-nakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/Fayaj-Nakib/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/fayaj-nakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/Fayaj-Nakib/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/nakibfayaj99" target="blank"><img align="center" src="https://raw.githubusercontent.com/Fayaj-Nakib/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 ---
@@ -150,18 +150,18 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 <br>
 
 <p align="center">
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GovindSingh9447&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/Fayaj-Nakib">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fayaj-Nakib&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSingh9447&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/Fayaj-Nakib">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaj-Nakib&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
 <br>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Fayaj-Nakib&theme=react-dark&hide_border=true&area=true)
 
 
 <h4 align="center">
@@ -286,7 +286,7 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 <br>
   ## Thank you for visting my profile
   
-  ![Visitor Count](https://profile-counter.glitch.me/jaiswal4sudep/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/Fayaj-Nakib/count.svg)
 
 This version keeps **everything you had**, while making it look better and easier to read. Let me know if you want any **final tweaks!** 🚀🔥
 s
