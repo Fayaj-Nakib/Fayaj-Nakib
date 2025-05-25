@@ -117,7 +117,7 @@ Business desktop software development in Delphi Seattle, where I did teamwork an
     </p>
 </div>
 
-
+<!--
 <!-- Licenses & certifications -->
 </br>
 <h2>Licenses & certifications</h2>
@@ -136,7 +136,7 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 
 <br>
 
-
+-->
 
 
 #
