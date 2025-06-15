@@ -35,13 +35,13 @@
 
 ## Experience:
 
-![Homerti](https://www.homerti.com/svg/logo.svg)
+![Cassetex](https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-white-2048x640.png)
 <br/>
-[Homerti](https://www.homerti.com/es) 
+[Cassetex](https://www.cassetex.com/) 
 <br/>
-**September 2023 - December 2023** 
+**February 2025 - Present** 
 <br/>
-Professional training internship contract where I did web maintenance tasks with Laravel and Vue to a main product
+Developed scalable web applications using React.js and Next.js, and built RESTful APIs with PHP (Laravel), integrating with MySQL and PostgreSQL. Collaborated with cross-functional teams to deliver full-stack solutions that improved product functionality and user experience.
 
 ![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
 <br/>
