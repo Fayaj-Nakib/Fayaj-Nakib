@@ -35,7 +35,7 @@
 
 ## Experience:
 
-<image-card alt="Cassetex" src="https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-white-2048x640.png "width=200 height=62.5"" >
+![Cassetex](https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-white-2048x640.png)
 <br/>
 [Cassetex](https://www.cassetex.com/) 
 <br/>
