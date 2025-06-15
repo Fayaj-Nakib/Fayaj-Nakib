@@ -43,14 +43,13 @@
 <br/>
 Developed scalable web applications using React.js and Next.js, and built RESTful APIs with PHP (Laravel), integrating with MySQL and PostgreSQL. Collaborated with cross-functional teams to deliver full-stack solutions that improved product functionality and user experience.
 
-![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
+![Starlink Engineering](https://web.starlinkbd.com/images/logo2.jpg)
 <br/>
-[Tec-Soft](https://tec-soft.es/) 
+[Starlink Engineering](https://web.starlinkbd.com/) 
 <br/>
-**May 2022 - July 2022** 
+**July 2024 - December 2024** 
 <br/>
-Business desktop software development in Delphi Seattle, where I did teamwork and mantain the main products of the business solving issues in real time.
-
+Analyzed network performance metrics to identify and resolve inefficiencies, coordinated with technical teams to optimize configurations, and generated detailed reports to support data-driven decision-making and continuous improvement.
 
 <!-- Tech Stack -->
 </br>
