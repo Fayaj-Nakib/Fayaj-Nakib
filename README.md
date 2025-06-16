@@ -33,7 +33,7 @@
 ## Experience:
 
 ![Cassetex](https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-white-2048x640.png)
-<br/>https://p3-ofp.static.pub/fes/cms/2023/03/22/8hjmcte754uauw07ypikjkjtx0m5ib450914.svg
+<br/>
 [Cassetex](https://www.cassetex.com/) 
 <br/>
 **February 2025 - Present** 
