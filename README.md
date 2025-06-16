@@ -122,7 +122,7 @@ Analyzed network performance metrics to identify and resolve inefficiencies, coo
 <h2>Licenses & certifications</h2>
 
 
--->
+ -->
 
 
 #
@@ -239,27 +239,20 @@ Analyzed network performance metrics to identify and resolve inefficiencies, coo
 </p>
 
 ---
-
+<!--
 ## 🎯 Featured Projects  
 🔹 [**Project 1: Machine Learning Model for Prediction**](https://github.com/Fayaj-Nakib/ML-Project)  
 🔹 [**Project 2: Web-Based Task Manager**](https://github.com/Fayaj-Nakib/Task-Manager)  
 🔹 [**Project 3: Portfolio Website**](https://fayaj-nakib.github.io/)  
 
 ---
-
+-->
 ## 🏆 Achievements  
 🏅 **ICPC World Final Dhaka 2022 Volunteer**  
 🏅 **Top 10 in University Coding Contest**  
-🏅 **Completed 100+ LeetCode Problems**  
+🏅 **Completed 100+ CodeForces Problems**  
 
 ---
-
-### 📌 Improvements Over Your Original Version:  
-✅ **Kept all features** – Nothing removed!  
-✅ **Fixed broken links & improved structure**  
-✅ **Made it visually appealing & easy to read**  
-✅ **Added a dedicated "Featured Projects" section**  
-✅ **Achievements Section to Highlight Your Skills**  
 
 
 
@@ -274,5 +267,3 @@ Analyzed network performance metrics to identify and resolve inefficiencies, coo
   
   ![Visitor Count](https://profile-counter.glitch.me/Fayaj-Nakib/count.svg)
 
-This version keeps **everything you had**, while making it look better and easier to read. Let me know if you want any **final tweaks!** 🚀🔥
-s
