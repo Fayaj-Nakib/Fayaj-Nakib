@@ -262,8 +262,3 @@ Analyzed network performance metrics to identify and resolve inefficiencies, coo
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
 
-<br>
-  ## Thank you for visting my profile
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Fayaj-Nakib/count.svg)
-
