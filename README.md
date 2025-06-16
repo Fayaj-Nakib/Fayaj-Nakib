@@ -32,7 +32,7 @@
 
 ## Experience:
 
-![Cassetex](https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-white-2048x640.png)
+![Cassetex](https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-full-2048x675.png)
 <br/>
 [Cassetex](https://www.cassetex.com/) 
 <br/>
