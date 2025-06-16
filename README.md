@@ -7,19 +7,16 @@
 
 ---
 
-## 🛠 About Me  
-- 🌱 I’m currently learning **DevOps**  
-- 👨‍💻 Check out my portfolio: [GitHub Portfolio](https://fayaj-nakib.github.io/)  
-- 🎓 I'm a **Computer Science Graduate**  
-- 🚀 I love working on **Open Source &  Development**  
-- 📄 I was a **Volunteer at ICPC World Final Dhaka 2022**  
-- 💬 Ask me about **Python, Web Dev, or AI**  
-- 📫 Reach me at: **nakibfayaj99@gmail.com**  
-- ⚡ Fun fact: **I spend more time debugging than coding! 😅**  
-
+##  About Me  
+-  I’m currently learning **DevOps**  
+-  Check out my portfolio: [GitHub Portfolio](https://fayaj-nakib.github.io/)  
+-  I'm a **Computer Science Graduate**  
+-  I love working on **Open Source &  Development**  
+-  I was a **Volunteer at ICPC World Final Dhaka 2022**  
+-  Reach me at: **nakibfayaj99@gmail.com**   
 ---
 
-## 🌍 Connect with Me  
+##  Connect with Me  
 <p align="left">
   <a href="https://codepen.io/fayaj-nakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/Fayaj-Nakib/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
   <a href="https://dev.to/fayaj-nakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/Fayaj-Nakib/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
@@ -152,13 +149,11 @@ Analyzed network performance metrics to identify and resolve inefficiencies, coo
 #
 
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
 
+
+
+
+##  GitHub Stats  
 <p align="center">
   <a href="https://github.com/Fayaj-Nakib">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fayaj-Nakib&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -167,8 +162,9 @@ Analyzed network performance metrics to identify and resolve inefficiencies, coo
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaj-Nakib&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-</details>
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayaj-nakib" alt="GitHub Streak Stats" />
+</p>
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Fayaj-Nakib&theme=react-dark&hide_border=true&area=true)
@@ -202,65 +198,6 @@ Analyzed network performance metrics to identify and resolve inefficiencies, coo
 
 
 #
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🚀 Languages & Tools  
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/> </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fayaj-nakib&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayaj-nakib&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayaj-nakib" alt="GitHub Streak Stats" />
-</p>
 
 ---
 <!--
