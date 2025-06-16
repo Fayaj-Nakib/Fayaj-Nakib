@@ -65,8 +65,40 @@ Analyzed network performance metrics to identify and resolve inefficiencies, coo
 			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
 			<img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
 			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
-			<img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
 			<img alt="Java" src="https://img.shields.io/badge/Java-05122A?logo=openjdk&style=flat">
+			<img alt="PHP" src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php">
+			<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Frontend Development</kbd>
+			<br>
+			<br>
+			<img alt="React" src="https://img.shields.io/badge/React-05122A?style=flat&logo=react">
+			<img alt="Next.js" src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js">
+			<img alt="CSS" src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css">
+			<img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-05122A?style=flat&logo=tailwindcss">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Backend Development</kbd>
+			<br>
+			<br>
+			<img alt="Laravel" src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel">
+			<img alt="Django" src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django">
+			<img alt="RESTful API" src="https://img.shields.io/badge/RESTful_API-05122A?style=flat&logo=api">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Databases</kbd>
+			<br>
+			<br>
+			<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql">
+			<img alt="MySQL" src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
+			<img alt="SQLite" src="https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite">
 		</kbd>
 	</p>
 	<p>
@@ -84,45 +116,37 @@ Analyzed network performance metrics to identify and resolve inefficiencies, coo
 	</p>
 	<p>
 		<kbd>
-			<kbd>Databases and Cloud Hosting</kbd>
-			<br>
-			<br>
-			<img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
-			<img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
-			<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-05122A.svg?style=flat&logo=Replit">
-			<img src="https://img.shields.io/badge/AWS%20Amplify-05122A?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
-		</kbd>
-	</p>
-	<p>
-		<kbd>
 			<kbd>Software and Tools</kbd>
 			<br>
 			<br>
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
-			<img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
-			<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
+			<img alt="GitHub" src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github">
+			<img alt="Docker" src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker">
+			<img alt="Postman" src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman">
+			<img alt="Vercel" src="https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel">
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
-			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=Neovim">
-			<img alt="Static Badge" src="https://img.shields.io/badge/Atom-05122A?style=flat">
+			<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
+			<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=googlecolab">
+			<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-05122A?style=flat&logo=kaggle">
+			<img alt="draw.io" src="https://img.shields.io/badge/draw.io-05122A?style=flat&logo=diagramsdotnet">
+			<img alt="Trello" src="https://img.shields.io/badge/Trello-05122A?style=flat&logo=trello">
 			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
-			<img alt="Medium" src="https://img.shields.io/badge/Medium-05122A?style=flat&logo=Medium">
-			<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=Google%20Colab">
-			<img alt="Static Badge" src="https://img.shields.io/badge/Notion-05122A?style=flat&logo=Notion">
-			<img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-05122A?style=flat&logo=Leetcode">
-			<img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces">
-			<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
+			<img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode">
+			<img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces">
+			<img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-05122A?style=flat&logo=stackoverflow">
 		</kbd>
 	</p>
     </p>
 </div>
 
-<!--
+
 <!-- Licenses & certifications -->
+<!--
 </br>
 <h2>Licenses & certifications</h2>
-
-
  -->
+
+
 
 
 #
