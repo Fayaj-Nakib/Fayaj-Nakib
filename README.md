@@ -30,23 +30,20 @@
 
 
 
-## Experience:
+## Experience
 
-![Cassetex](https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-full-2048x675.png)
-<br/>
-[Cassetex](https://www.cassetex.com/) 
-<br/>
-**February 2025 - Present** 
-<br/>
-Developed scalable web applications using React.js and Next.js, and built RESTful APIs with PHP (Laravel), integrating with MySQL and PostgreSQL. Collaborated with cross-functional teams to deliver full-stack solutions that improved product functionality and user experience.
+<img src="https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-full-2048x675.png" alt="Cassetex" style="height: 60px;"><br/>
+<a href="https://www.cassetex.com/">Cassetex</a><br/>
+<strong>February 2025 – Present</strong><br/>
+Developed scalable web applications using <strong>React.js</strong> and <strong>Next.js</strong>, and built RESTful APIs with <strong>PHP (Laravel)</strong>, integrating with <strong>MySQL</strong> and <strong>PostgreSQL</strong>. Collaborated with cross-functional teams to deliver full-stack solutions that improved product functionality and user experience.
 
-![Starlink Engineering](https://web.starlinkbd.com/images/logo2.jpg)
-<br/>
-[Starlink Engineering](https://web.starlinkbd.com/) 
-<br/>
-**July 2024 - December 2024** 
-<br/>
+<br><br>
+
+<img src="https://web.starlinkbd.com/images/logo2.jpg" alt="Starlink Engineering" style="height: 60px;"><br/>
+<a href="https://web.starlinkbd.com/">Starlink Engineering</a><br/>
+<strong>July 2024 – December 2024</strong><br/>
 Analyzed network performance metrics to identify and resolve inefficiencies, coordinated with technical teams to optimize configurations, and generated detailed reports to support data-driven decision-making and continuous improvement.
+
 
 <!-- Tech Stack -->
 </br>
