@@ -34,15 +34,17 @@
 
 <img src="https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-full-2048x675.png" alt="Cassetex" style="height: 60px;"><br/>
 <a href="https://www.cassetex.com/">Cassetex</a><br/>
+<strong>Associate Software Engineer</strong><br/>
 <strong>February 2025 – Present</strong><br/>
 Developed scalable web applications using <strong>React.js</strong> and <strong>Next.js</strong>, and built RESTful APIs with <strong>PHP (Laravel)</strong>, integrating with <strong>MySQL</strong> and <strong>PostgreSQL</strong>. Collaborated with cross-functional teams to deliver full-stack solutions that improved product functionality and user experience.
 
 <br><br>
 
-<img src="https://web.starlinkbd.com/images/logo2.jpg" alt="Starlink Engineering" style="height: 60px;"><br/>
-<a href="https://web.starlinkbd.com/">Starlink Engineering</a><br/>
+<img src="https://eutropia-it.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.7e476aa4.png&w=640&q=75" alt="Starlink Engineering" style="height: 60px;"><br/>
+<a href="https://eutropia-it.com/">Eutropia-IT</a> <br/>
+<strong>Junior Software Engineer</strong><br/>
 <strong>July 2024 – December 2024</strong><br/>
-Analyzed network performance metrics to identify and resolve inefficiencies, coordinated with technical teams to optimize configurations, and generated detailed reports to support data-driven decision-making and continuous improvement.
+Worked on full-stack web development using Laravel and Next.js, contributed to feature implementation, API development, and performance optimization. Collaborated with senior developers on real-world SaaS projects in an agile environment.
 
 
 <!-- Tech Stack -->
