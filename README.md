@@ -189,7 +189,7 @@ Worked on full-stack web development using Laravel and Next.js, contributed to f
 -->
 ## 🏆 Achievements  
 🏅 **ICPC World Final Dhaka 2022 Volunteer**  
-🏅 **Top 10 in University Coding Contest**  
+🏅 **Top 5 in University Coding Contest**  
 🏅 **Completed 100+ CodeForces Problems**  
 
 ---
