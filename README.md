@@ -30,8 +30,6 @@
 
 ## Experience
 
-## Experience
-
 <img src="https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-full-2048x675.png" alt="Cassetex" style="height: 60px;"><br/>
 <a href="https://www.cassetex.com/">Cassetex</a> — EV Battery-Swap Platform<br/>
 <strong>Associate Software Engineer</strong><br/>
