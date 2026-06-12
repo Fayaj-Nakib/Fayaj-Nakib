@@ -30,11 +30,13 @@
 
 ## Experience
 
+## Experience
+
 <img src="https://www.cassetex.com/wp-content/uploads/2024/10/Cassetex-new-logo-full-2048x675.png" alt="Cassetex" style="height: 60px;"><br/>
 <a href="https://www.cassetex.com/">Cassetex</a> — EV Battery-Swap Platform<br/>
 <strong>Associate Software Engineer</strong><br/>
 <strong>February 2025 – Present</strong><br/>
-Architected a 199-endpoint REST API (Laravel / PHP / PostgreSQL) with multi-layered authentication and RBAC; built a Tile38-backed geofence engine with real-time violation detection; integrated bKash payment webhooks with idempotent reconciliation; and shipped React/Next.js dashboards across admin, franchisee, and driver roles.
+Own the platform's core REST API (Laravel / PHP / PostgreSQL) — 150+ endpoints with multi-layered authentication and RBAC; built a Tile38-backed geofence engine that automatically disables a vehicle on zone exit and re-enables it on return; integrated bKash payment webhooks with idempotent reconciliation; shipped React/Next.js dashboards across operator roles; and run deployment and server operations across three VPS environments (Nginx, SSL, releases, backups).
 
 <br><br>
 
@@ -75,16 +77,18 @@ Built full-stack web applications with Laravel and React/Next.js; refactored leg
 			<br><br>
 			<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql">
 			<img alt="PostGIS" src="https://img.shields.io/badge/PostGIS-05122A?style=flat&logo=postgresql">
+			<img alt="Tile38" src="https://img.shields.io/badge/Tile38-05122A?style=flat&logo=redis">
 			<img alt="MySQL" src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
 			<img alt="Redis" src="https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis">
 		</kbd>
 	</p>
 	<p>
 		<kbd>
-			<kbd>DevOps &amp; Tools</kbd>
+			<kbd>DevOps &amp; Infrastructure</kbd>
 			<br><br>
 			<img alt="Docker" src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker">
 			<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-05122A?style=flat&logo=githubactions">
+			<img alt="Nginx" src="https://img.shields.io/badge/Nginx-05122A?style=flat&logo=nginx">
 			<img alt="Linux" src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux">
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
 			<img alt="Postman" src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman">
